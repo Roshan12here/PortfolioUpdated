@@ -227,7 +227,7 @@ const AboutPage = () => {
                   </div>
                   {/* JOB COMPANY */}
                   <div className="p-1 rounded bg-white text-sm font-semibold w-fit">
-                    Gusher
+                    Hukumat Networks
                   </div>
                 </div>
                 {/* CENTER */}
